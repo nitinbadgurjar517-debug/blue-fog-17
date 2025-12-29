@@ -7,3 +7,4 @@
 [Uu]serSettings/
 *.csproj
 *.sln
+.vs/
